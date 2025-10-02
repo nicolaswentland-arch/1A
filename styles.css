@@ -1,8 +1,15 @@
+body{
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
 
-
-
-
-
+header {
+    border-bottom: solid 2px ;
+    padding: 20px;
+    font-size: 32px;
+    color: blue(42, 122, 228);
+}
 
 section {
  background-color: rgb(184, 156 , 213); 
